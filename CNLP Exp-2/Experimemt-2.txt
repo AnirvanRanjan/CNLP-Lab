@@ -1,0 +1,12 @@
+﻿Experiment-2: Basic Text Preprocessing
+Experiment 2.1:  Write a Python program to perform basic text preprocessing on a given data. The program should:
+1. Convert text to lowercase. (Also display how many uppercase?)
+2. Remove punctuation.        (Also display how many different types of punctuations?)
+3. Remove numbers.            (Also display how many numbers?)
+4. Remove extra whitespace. (How much extra whitespace is present?)
+5. Display the cleaned text.     
+
+
+Experiment 2.2: Write a Python program to perform word tokenization and sentence tokenization on a given text. Display the resulting words and sentences separately.
+           (Three separate code: using NLTK, using spaCy  and without using NLTK/spacy)
+Experiment 2.3: Write a Python program to tokenize a text and remove commonly occurring stop words such as is, the, a, an, in, of, and, to, etc. Display the original and filtered tokens. (Also, display Stop Words Separately).
